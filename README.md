@@ -46,3 +46,4 @@ Inside `index.html`:
 ### Submitting Your Work
 
 After completing the assignment, make sure to commit your changes and push them back to your own repository and turn in the GitHub link in Open Class
+
